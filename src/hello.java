@@ -4,5 +4,6 @@ public class hello {
         System.out.println("!");
         System.out.println("!");
         System.out.println("Line");
+        System.out.println("Line2");
     }
 }
